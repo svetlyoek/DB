@@ -1,0 +1,6 @@
+DELETE FROM Peaks
+WHERE Elevation = 8848;
+DELETE FROM peaks
+WHERE Id = 62;
+SELECT *
+FROM Peaks;
