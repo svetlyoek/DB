@@ -1,0 +1,4 @@
+E:\Soft Uni\CODES\DB\Entity Framework Core\ADO.NET\SqlDataReader\bin\Debug\netcoreapp3.0\SqlDataReader.exe
+E:\Soft Uni\CODES\DB\Entity Framework Core\ADO.NET\SqlDataReader\obj\Debug\netcoreapp3.0\SqlDataReader.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\DB\Entity Framework Core\ADO.NET\SqlDataReader\obj\Debug\netcoreapp3.0\SqlDataReader.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\DB\Entity Framework Core\ADO.NET\SqlDataReader\obj\Debug\netcoreapp3.0\SqlDataReader.AssemblyInfo.cs
