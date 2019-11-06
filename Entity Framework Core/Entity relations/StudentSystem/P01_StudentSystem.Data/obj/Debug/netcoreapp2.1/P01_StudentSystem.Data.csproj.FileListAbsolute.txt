@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\DB\Entity Framework Core\Entity relations\StudentSystem\P01_StudentSystem.Data\obj\Debug\netcoreapp2.1\P01_StudentSystem.Data.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\DB\Entity Framework Core\Entity relations\StudentSystem\P01_StudentSystem.Data\obj\Debug\netcoreapp2.1\P01_StudentSystem.Data.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\DB\Entity Framework Core\Entity relations\StudentSystem\P01_StudentSystem.Data\obj\Debug\netcoreapp2.1\P01_StudentSystem.Data.AssemblyInfo.cs
+E:\Soft Uni\CODES\DB\Entity Framework Core\Entity relations\StudentSystem\P01_StudentSystem.Data\bin\Debug\netcoreapp2.1\P01_StudentSystem.Data.deps.json
+E:\Soft Uni\CODES\DB\Entity Framework Core\Entity relations\StudentSystem\P01_StudentSystem.Data\bin\Debug\netcoreapp2.1\P01_StudentSystem.Data.dll
+E:\Soft Uni\CODES\DB\Entity Framework Core\Entity relations\StudentSystem\P01_StudentSystem.Data\bin\Debug\netcoreapp2.1\P01_StudentSystem.Data.pdb
+E:\Soft Uni\CODES\DB\Entity Framework Core\Entity relations\StudentSystem\P01_StudentSystem.Data\bin\Debug\netcoreapp2.1\P01_StudentSystem.Models.dll
+E:\Soft Uni\CODES\DB\Entity Framework Core\Entity relations\StudentSystem\P01_StudentSystem.Data\bin\Debug\netcoreapp2.1\P01_StudentSystem.Models.pdb
+E:\Soft Uni\CODES\DB\Entity Framework Core\Entity relations\StudentSystem\P01_StudentSystem.Data\obj\Debug\netcoreapp2.1\P01_StudentSystem.Data.csproj.CopyComplete
+E:\Soft Uni\CODES\DB\Entity Framework Core\Entity relations\StudentSystem\P01_StudentSystem.Data\obj\Debug\netcoreapp2.1\P01_StudentSystem.Data.dll
+E:\Soft Uni\CODES\DB\Entity Framework Core\Entity relations\StudentSystem\P01_StudentSystem.Data\obj\Debug\netcoreapp2.1\P01_StudentSystem.Data.pdb
