@@ -1,0 +1,204 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Soft Uni\\CODES\\DB\\Entity Framework Core\\Entity relations\\StudentSystem\\P01_StudentSystem\\P01_StudentSystem.csproj": {}
+  },
+  "projects": {
+    "E:\\Soft Uni\\CODES\\DB\\Entity Framework Core\\Entity relations\\StudentSystem\\P01_StudentSystem.Data\\P01_StudentSystem.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Soft Uni\\CODES\\DB\\Entity Framework Core\\Entity relations\\StudentSystem\\P01_StudentSystem.Data\\P01_StudentSystem.Data.csproj",
+        "projectName": "P01_StudentSystem.Data",
+        "projectPath": "E:\\Soft Uni\\CODES\\DB\\Entity Framework Core\\Entity relations\\StudentSystem\\P01_StudentSystem.Data\\P01_StudentSystem.Data.csproj",
+        "packagesPath": "C:\\Users\\Svetoslav\\.nuget\\packages\\",
+        "outputPath": "E:\\Soft Uni\\CODES\\DB\\Entity Framework Core\\Entity relations\\StudentSystem\\P01_StudentSystem.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Svetoslav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "E:\\Soft Uni\\CODES\\DB\\Entity Framework Core\\Entity relations\\StudentSystem\\P01_StudentSystem.Models\\P01_StudentSystem.Models.csproj": {
+                "projectPath": "E:\\Soft Uni\\CODES\\DB\\Entity Framework Core\\Entity relations\\StudentSystem\\P01_StudentSystem.Models\\P01_StudentSystem.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Soft Uni\\CODES\\DB\\Entity Framework Core\\Entity relations\\StudentSystem\\P01_StudentSystem.Models\\P01_StudentSystem.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Soft Uni\\CODES\\DB\\Entity Framework Core\\Entity relations\\StudentSystem\\P01_StudentSystem.Models\\P01_StudentSystem.Models.csproj",
+        "projectName": "P01_StudentSystem.Models",
+        "projectPath": "E:\\Soft Uni\\CODES\\DB\\Entity Framework Core\\Entity relations\\StudentSystem\\P01_StudentSystem.Models\\P01_StudentSystem.Models.csproj",
+        "packagesPath": "C:\\Users\\Svetoslav\\.nuget\\packages\\",
+        "outputPath": "E:\\Soft Uni\\CODES\\DB\\Entity Framework Core\\Entity relations\\StudentSystem\\P01_StudentSystem.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Svetoslav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Soft Uni\\CODES\\DB\\Entity Framework Core\\Entity relations\\StudentSystem\\P01_StudentSystem\\P01_StudentSystem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Soft Uni\\CODES\\DB\\Entity Framework Core\\Entity relations\\StudentSystem\\P01_StudentSystem\\P01_StudentSystem.csproj",
+        "projectName": "P01_StudentSystem",
+        "projectPath": "E:\\Soft Uni\\CODES\\DB\\Entity Framework Core\\Entity relations\\StudentSystem\\P01_StudentSystem\\P01_StudentSystem.csproj",
+        "packagesPath": "C:\\Users\\Svetoslav\\.nuget\\packages\\",
+        "outputPath": "E:\\Soft Uni\\CODES\\DB\\Entity Framework Core\\Entity relations\\StudentSystem\\P01_StudentSystem\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Svetoslav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "E:\\Soft Uni\\CODES\\DB\\Entity Framework Core\\Entity relations\\StudentSystem\\P01_StudentSystem.Data\\P01_StudentSystem.Data.csproj": {
+                "projectPath": "E:\\Soft Uni\\CODES\\DB\\Entity Framework Core\\Entity relations\\StudentSystem\\P01_StudentSystem.Data\\P01_StudentSystem.Data.csproj"
+              },
+              "E:\\Soft Uni\\CODES\\DB\\Entity Framework Core\\Entity relations\\StudentSystem\\P01_StudentSystem.Models\\P01_StudentSystem.Models.csproj": {
+                "projectPath": "E:\\Soft Uni\\CODES\\DB\\Entity Framework Core\\Entity relations\\StudentSystem\\P01_StudentSystem.Models\\P01_StudentSystem.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
