@@ -1,8 +1,0 @@
-E:\Soft Uni\CODES\DB\Entity Framework Core\Entity relations\FootballBetting\P03_FootballBetting.Data.Models\bin\Debug\netcoreapp3.0\P03_FootballBetting.Models.deps.json
-E:\Soft Uni\CODES\DB\Entity Framework Core\Entity relations\FootballBetting\P03_FootballBetting.Data.Models\bin\Debug\netcoreapp3.0\P03_FootballBetting.Models.dll
-E:\Soft Uni\CODES\DB\Entity Framework Core\Entity relations\FootballBetting\P03_FootballBetting.Data.Models\bin\Debug\netcoreapp3.0\P03_FootballBetting.Models.pdb
-E:\Soft Uni\CODES\DB\Entity Framework Core\Entity relations\FootballBetting\P03_FootballBetting.Data.Models\obj\Debug\netcoreapp3.0\P03_FootballBetting.Models.csprojAssemblyReference.cache
-E:\Soft Uni\CODES\DB\Entity Framework Core\Entity relations\FootballBetting\P03_FootballBetting.Data.Models\obj\Debug\netcoreapp3.0\P03_FootballBetting.Models.AssemblyInfoInputs.cache
-E:\Soft Uni\CODES\DB\Entity Framework Core\Entity relations\FootballBetting\P03_FootballBetting.Data.Models\obj\Debug\netcoreapp3.0\P03_FootballBetting.Models.AssemblyInfo.cs
-E:\Soft Uni\CODES\DB\Entity Framework Core\Entity relations\FootballBetting\P03_FootballBetting.Data.Models\obj\Debug\netcoreapp3.0\P03_FootballBetting.Models.dll
-E:\Soft Uni\CODES\DB\Entity Framework Core\Entity relations\FootballBetting\P03_FootballBetting.Data.Models\obj\Debug\netcoreapp3.0\P03_FootballBetting.Models.pdb
