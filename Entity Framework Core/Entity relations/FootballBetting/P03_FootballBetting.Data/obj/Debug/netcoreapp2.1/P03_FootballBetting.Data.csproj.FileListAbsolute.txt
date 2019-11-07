@@ -1,0 +1,13 @@
+E:\Soft Uni\CODES\DB\Entity Framework Core\Entity relations\FootballBetting\P03_FootballBetting.Data\bin\Debug\netcoreapp2.1\P03_FootballBetting.Data.deps.json
+E:\Soft Uni\CODES\DB\Entity Framework Core\Entity relations\FootballBetting\P03_FootballBetting.Data\bin\Debug\netcoreapp2.1\P03_FootballBetting.Data.dll
+E:\Soft Uni\CODES\DB\Entity Framework Core\Entity relations\FootballBetting\P03_FootballBetting.Data\bin\Debug\netcoreapp2.1\P03_FootballBetting.Data.pdb
+E:\Soft Uni\CODES\DB\Entity Framework Core\Entity relations\FootballBetting\P03_FootballBetting.Data\obj\Debug\netcoreapp2.1\P03_FootballBetting.Data.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\DB\Entity Framework Core\Entity relations\FootballBetting\P03_FootballBetting.Data\obj\Debug\netcoreapp2.1\P03_FootballBetting.Data.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\DB\Entity Framework Core\Entity relations\FootballBetting\P03_FootballBetting.Data\obj\Debug\netcoreapp2.1\P03_FootballBetting.Data.AssemblyInfo.cs
+E:\Soft Uni\CODES\DB\Entity Framework Core\Entity relations\FootballBetting\P03_FootballBetting.Data\obj\Debug\netcoreapp2.1\P03_FootballBetting.Data.csproj.CopyComplete
+E:\Soft Uni\CODES\DB\Entity Framework Core\Entity relations\FootballBetting\P03_FootballBetting.Data\obj\Debug\netcoreapp2.1\P03_FootballBetting.Data.dll
+E:\Soft Uni\CODES\DB\Entity Framework Core\Entity relations\FootballBetting\P03_FootballBetting.Data\obj\Debug\netcoreapp2.1\P03_FootballBetting.Data.pdb
+E:\Soft Uni\CODES\DB\Entity Framework Core\Entity relations\FootballBetting\P03_FootballBetting.Data\bin\Debug\netcoreapp2.1\P03_FootballBetting.Models.dll
+E:\Soft Uni\CODES\DB\Entity Framework Core\Entity relations\FootballBetting\P03_FootballBetting.Data\bin\Debug\netcoreapp2.1\P03_FootballBetting.Models.pdb
+E:\Soft Uni\CODES\DB\Entity Framework Core\Entity relations\FootballBetting\P03_FootballBetting.Data\bin\Debug\netcoreapp2.1\P03_FootballBetting.Data.runtimeconfig.json
+E:\Soft Uni\CODES\DB\Entity Framework Core\Entity relations\FootballBetting\P03_FootballBetting.Data\bin\Debug\netcoreapp2.1\P03_FootballBetting.Data.runtimeconfig.dev.json

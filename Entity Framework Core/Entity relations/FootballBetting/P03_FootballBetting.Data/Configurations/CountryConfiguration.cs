@@ -1,0 +1,22 @@
+﻿namespace P03_FootballBetting.Data.Configurations
+{
+    using Microsoft.EntityFrameworkCore;
+    using Microsoft.EntityFrameworkCore.Metadata.Builders;
+    using Models;
+
+    public class CountryConfiguration : IEntityTypeConfiguration<Country>
+    {
+        public void Configure(EntityTypeBuilder<Country> country)
+        {
+            country
+                .HasKey(k => k.CountryId);
+
+            country
+                .Property(p => p.Name)
+                .HasMaxLength(30)
+                .IsRequired(true)
+                .IsUnicode(false);
+
+        }
+    }
+}
