@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HospitalDatabase.Data\HospitalDatabase.Data.csproj" />
+    <ProjectReference Include="..\HospitalDatabase.Models\HospitalDatabase.Models.csproj" />
+  </ItemGroup>
+
+</Project>

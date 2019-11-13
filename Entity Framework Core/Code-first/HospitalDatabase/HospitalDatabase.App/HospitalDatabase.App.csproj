@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <ApplicationIcon />
+    <OutputType>Exe</OutputType>
+    <StartupObject />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HospitalDatabase.Data\HospitalDatabase.Data.csproj" />
+    <ProjectReference Include="..\HospitalDatabase.Models\HospitalDatabase.Models.csproj" />
+    <ProjectReference Include="..\HospitalDatabase.User\HospitalDatabase.User.csproj" />
+  </ItemGroup>
+
+</Project>
