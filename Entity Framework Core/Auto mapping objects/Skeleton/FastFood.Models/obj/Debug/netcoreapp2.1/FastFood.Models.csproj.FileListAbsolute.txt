@@ -1,0 +1,8 @@
+E:\Soft Uni\CODES\DB\Entity Framework Core\Auto mapping objects\Skeleton\FastFood.Models\bin\Debug\netcoreapp2.1\FastFood.Models.deps.json
+E:\Soft Uni\CODES\DB\Entity Framework Core\Auto mapping objects\Skeleton\FastFood.Models\bin\Debug\netcoreapp2.1\FastFood.Models.dll
+E:\Soft Uni\CODES\DB\Entity Framework Core\Auto mapping objects\Skeleton\FastFood.Models\bin\Debug\netcoreapp2.1\FastFood.Models.pdb
+E:\Soft Uni\CODES\DB\Entity Framework Core\Auto mapping objects\Skeleton\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\DB\Entity Framework Core\Auto mapping objects\Skeleton\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\DB\Entity Framework Core\Auto mapping objects\Skeleton\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.AssemblyInfo.cs
+E:\Soft Uni\CODES\DB\Entity Framework Core\Auto mapping objects\Skeleton\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.dll
+E:\Soft Uni\CODES\DB\Entity Framework Core\Auto mapping objects\Skeleton\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.pdb
