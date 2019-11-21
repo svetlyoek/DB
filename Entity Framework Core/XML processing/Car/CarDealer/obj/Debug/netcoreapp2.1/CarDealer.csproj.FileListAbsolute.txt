@@ -1,0 +1,10 @@
+E:\Soft Uni\CODES\DB\Entity Framework Core\XML processing\Car\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.deps.json
+E:\Soft Uni\CODES\DB\Entity Framework Core\XML processing\Car\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.json
+E:\Soft Uni\CODES\DB\Entity Framework Core\XML processing\Car\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.dev.json
+E:\Soft Uni\CODES\DB\Entity Framework Core\XML processing\Car\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.dll
+E:\Soft Uni\CODES\DB\Entity Framework Core\XML processing\Car\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.pdb
+E:\Soft Uni\CODES\DB\Entity Framework Core\XML processing\Car\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\DB\Entity Framework Core\XML processing\Car\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\DB\Entity Framework Core\XML processing\Car\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfo.cs
+E:\Soft Uni\CODES\DB\Entity Framework Core\XML processing\Car\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.dll
+E:\Soft Uni\CODES\DB\Entity Framework Core\XML processing\Car\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.pdb
