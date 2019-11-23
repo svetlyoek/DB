@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\DB\Entity Framework Core\Design patterns\DesignPatterns-Lab\Facade\bin\Debug\netcoreapp3.0\Facade.exe
+E:\Soft Uni\CODES\DB\Entity Framework Core\Design patterns\DesignPatterns-Lab\Facade\bin\Debug\netcoreapp3.0\Facade.deps.json
+E:\Soft Uni\CODES\DB\Entity Framework Core\Design patterns\DesignPatterns-Lab\Facade\bin\Debug\netcoreapp3.0\Facade.runtimeconfig.json
+E:\Soft Uni\CODES\DB\Entity Framework Core\Design patterns\DesignPatterns-Lab\Facade\bin\Debug\netcoreapp3.0\Facade.runtimeconfig.dev.json
+E:\Soft Uni\CODES\DB\Entity Framework Core\Design patterns\DesignPatterns-Lab\Facade\bin\Debug\netcoreapp3.0\Facade.dll
+E:\Soft Uni\CODES\DB\Entity Framework Core\Design patterns\DesignPatterns-Lab\Facade\bin\Debug\netcoreapp3.0\Facade.pdb
+E:\Soft Uni\CODES\DB\Entity Framework Core\Design patterns\DesignPatterns-Lab\Facade\obj\Debug\netcoreapp3.0\Facade.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\DB\Entity Framework Core\Design patterns\DesignPatterns-Lab\Facade\obj\Debug\netcoreapp3.0\Facade.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\DB\Entity Framework Core\Design patterns\DesignPatterns-Lab\Facade\obj\Debug\netcoreapp3.0\Facade.AssemblyInfo.cs
+E:\Soft Uni\CODES\DB\Entity Framework Core\Design patterns\DesignPatterns-Lab\Facade\obj\Debug\netcoreapp3.0\Facade.dll
+E:\Soft Uni\CODES\DB\Entity Framework Core\Design patterns\DesignPatterns-Lab\Facade\obj\Debug\netcoreapp3.0\Facade.pdb

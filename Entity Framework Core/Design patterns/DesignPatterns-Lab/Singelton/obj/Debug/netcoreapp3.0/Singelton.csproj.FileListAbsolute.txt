@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\DB\Entity Framework Core\Design patterns\DesignPatterns-Lab\Singelton\bin\Debug\netcoreapp3.0\Singelton.exe
+E:\Soft Uni\CODES\DB\Entity Framework Core\Design patterns\DesignPatterns-Lab\Singelton\bin\Debug\netcoreapp3.0\Singelton.deps.json
+E:\Soft Uni\CODES\DB\Entity Framework Core\Design patterns\DesignPatterns-Lab\Singelton\bin\Debug\netcoreapp3.0\Singelton.runtimeconfig.json
+E:\Soft Uni\CODES\DB\Entity Framework Core\Design patterns\DesignPatterns-Lab\Singelton\bin\Debug\netcoreapp3.0\Singelton.runtimeconfig.dev.json
+E:\Soft Uni\CODES\DB\Entity Framework Core\Design patterns\DesignPatterns-Lab\Singelton\bin\Debug\netcoreapp3.0\Singelton.dll
+E:\Soft Uni\CODES\DB\Entity Framework Core\Design patterns\DesignPatterns-Lab\Singelton\bin\Debug\netcoreapp3.0\Singelton.pdb
+E:\Soft Uni\CODES\DB\Entity Framework Core\Design patterns\DesignPatterns-Lab\Singelton\obj\Debug\netcoreapp3.0\Singelton.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\DB\Entity Framework Core\Design patterns\DesignPatterns-Lab\Singelton\obj\Debug\netcoreapp3.0\Singelton.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\DB\Entity Framework Core\Design patterns\DesignPatterns-Lab\Singelton\obj\Debug\netcoreapp3.0\Singelton.AssemblyInfo.cs
+E:\Soft Uni\CODES\DB\Entity Framework Core\Design patterns\DesignPatterns-Lab\Singelton\obj\Debug\netcoreapp3.0\Singelton.dll
+E:\Soft Uni\CODES\DB\Entity Framework Core\Design patterns\DesignPatterns-Lab\Singelton\obj\Debug\netcoreapp3.0\Singelton.pdb
