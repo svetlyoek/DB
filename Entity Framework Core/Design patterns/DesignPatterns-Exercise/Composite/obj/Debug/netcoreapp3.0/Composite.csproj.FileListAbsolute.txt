@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\DB\Entity Framework Core\Design patterns\DesignPatterns-Exercise\Composite\bin\Debug\netcoreapp3.0\Composite.exe
+E:\Soft Uni\CODES\DB\Entity Framework Core\Design patterns\DesignPatterns-Exercise\Composite\bin\Debug\netcoreapp3.0\Composite.deps.json
+E:\Soft Uni\CODES\DB\Entity Framework Core\Design patterns\DesignPatterns-Exercise\Composite\bin\Debug\netcoreapp3.0\Composite.runtimeconfig.json
+E:\Soft Uni\CODES\DB\Entity Framework Core\Design patterns\DesignPatterns-Exercise\Composite\bin\Debug\netcoreapp3.0\Composite.runtimeconfig.dev.json
+E:\Soft Uni\CODES\DB\Entity Framework Core\Design patterns\DesignPatterns-Exercise\Composite\bin\Debug\netcoreapp3.0\Composite.dll
+E:\Soft Uni\CODES\DB\Entity Framework Core\Design patterns\DesignPatterns-Exercise\Composite\bin\Debug\netcoreapp3.0\Composite.pdb
+E:\Soft Uni\CODES\DB\Entity Framework Core\Design patterns\DesignPatterns-Exercise\Composite\obj\Debug\netcoreapp3.0\Composite.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\DB\Entity Framework Core\Design patterns\DesignPatterns-Exercise\Composite\obj\Debug\netcoreapp3.0\Composite.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\DB\Entity Framework Core\Design patterns\DesignPatterns-Exercise\Composite\obj\Debug\netcoreapp3.0\Composite.AssemblyInfo.cs
+E:\Soft Uni\CODES\DB\Entity Framework Core\Design patterns\DesignPatterns-Exercise\Composite\obj\Debug\netcoreapp3.0\Composite.dll
+E:\Soft Uni\CODES\DB\Entity Framework Core\Design patterns\DesignPatterns-Exercise\Composite\obj\Debug\netcoreapp3.0\Composite.pdb

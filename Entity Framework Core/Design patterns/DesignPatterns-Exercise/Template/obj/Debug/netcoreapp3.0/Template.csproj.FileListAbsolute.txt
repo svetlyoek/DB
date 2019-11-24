@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\DB\Entity Framework Core\Design patterns\DesignPatterns-Exercise\Template\bin\Debug\netcoreapp3.0\Template.exe
+E:\Soft Uni\CODES\DB\Entity Framework Core\Design patterns\DesignPatterns-Exercise\Template\bin\Debug\netcoreapp3.0\Template.deps.json
+E:\Soft Uni\CODES\DB\Entity Framework Core\Design patterns\DesignPatterns-Exercise\Template\bin\Debug\netcoreapp3.0\Template.runtimeconfig.json
+E:\Soft Uni\CODES\DB\Entity Framework Core\Design patterns\DesignPatterns-Exercise\Template\bin\Debug\netcoreapp3.0\Template.runtimeconfig.dev.json
+E:\Soft Uni\CODES\DB\Entity Framework Core\Design patterns\DesignPatterns-Exercise\Template\bin\Debug\netcoreapp3.0\Template.dll
+E:\Soft Uni\CODES\DB\Entity Framework Core\Design patterns\DesignPatterns-Exercise\Template\bin\Debug\netcoreapp3.0\Template.pdb
+E:\Soft Uni\CODES\DB\Entity Framework Core\Design patterns\DesignPatterns-Exercise\Template\obj\Debug\netcoreapp3.0\Template.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\DB\Entity Framework Core\Design patterns\DesignPatterns-Exercise\Template\obj\Debug\netcoreapp3.0\Template.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\DB\Entity Framework Core\Design patterns\DesignPatterns-Exercise\Template\obj\Debug\netcoreapp3.0\Template.AssemblyInfo.cs
+E:\Soft Uni\CODES\DB\Entity Framework Core\Design patterns\DesignPatterns-Exercise\Template\obj\Debug\netcoreapp3.0\Template.dll
+E:\Soft Uni\CODES\DB\Entity Framework Core\Design patterns\DesignPatterns-Exercise\Template\obj\Debug\netcoreapp3.0\Template.pdb
