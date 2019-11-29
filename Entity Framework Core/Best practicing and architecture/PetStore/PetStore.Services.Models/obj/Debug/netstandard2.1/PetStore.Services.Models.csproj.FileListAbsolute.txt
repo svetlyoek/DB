@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\DB\Entity Framework Core\Best practicing and architecture\PetStore\PetStore.Services.Models\bin\Debug\netstandard2.1\PetStore.Services.Models.deps.json
+E:\Soft Uni\CODES\DB\Entity Framework Core\Best practicing and architecture\PetStore\PetStore.Services.Models\bin\Debug\netstandard2.1\PetStore.Services.Models.dll
+E:\Soft Uni\CODES\DB\Entity Framework Core\Best practicing and architecture\PetStore\PetStore.Services.Models\bin\Debug\netstandard2.1\PetStore.Services.Models.pdb
+E:\Soft Uni\CODES\DB\Entity Framework Core\Best practicing and architecture\PetStore\PetStore.Services.Models\bin\Debug\netstandard2.1\PetStore.Models.dll
+E:\Soft Uni\CODES\DB\Entity Framework Core\Best practicing and architecture\PetStore\PetStore.Services.Models\bin\Debug\netstandard2.1\PetStore.Models.pdb
+E:\Soft Uni\CODES\DB\Entity Framework Core\Best practicing and architecture\PetStore\PetStore.Services.Models\obj\Debug\netstandard2.1\PetStore.Services.Models.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\DB\Entity Framework Core\Best practicing and architecture\PetStore\PetStore.Services.Models\obj\Debug\netstandard2.1\PetStore.Services.Models.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\DB\Entity Framework Core\Best practicing and architecture\PetStore\PetStore.Services.Models\obj\Debug\netstandard2.1\PetStore.Services.Models.AssemblyInfo.cs
+E:\Soft Uni\CODES\DB\Entity Framework Core\Best practicing and architecture\PetStore\PetStore.Services.Models\obj\Debug\netstandard2.1\PetStore.Services.Models.csproj.CopyComplete
+E:\Soft Uni\CODES\DB\Entity Framework Core\Best practicing and architecture\PetStore\PetStore.Services.Models\obj\Debug\netstandard2.1\PetStore.Services.Models.dll
+E:\Soft Uni\CODES\DB\Entity Framework Core\Best practicing and architecture\PetStore\PetStore.Services.Models\obj\Debug\netstandard2.1\PetStore.Services.Models.pdb

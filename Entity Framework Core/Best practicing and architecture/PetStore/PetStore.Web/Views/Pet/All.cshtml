@@ -1,0 +1,32 @@
+﻿
+@model IEnumerable<PetListingModel>
+
+<h1>All pets</h1>
+
+<table class="table table-bordered table-striped">
+    <tr>
+        <th>
+            Id
+        </th>
+        <th>
+            Name
+        </th>
+        <th>
+            Price
+        </th>
+    </tr>
+    @foreach (var pet in Model)
+    {
+        <tr>
+            <td>
+                @pet.Id
+            </td>
+            <td>
+                @pet.Name
+            </td>
+            <td>
+                @pet.Price
+            </td>
+        </tr>
+    }
+</table>
