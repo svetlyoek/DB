@@ -1,8 +1,0 @@
-E:\Soft Uni\CODES\DB\Entity Framework Core\Best practicing and architecture\PetStore\PetStore.Models\bin\Debug\netstandard2.1\PetStore.Models.deps.json
-E:\Soft Uni\CODES\DB\Entity Framework Core\Best practicing and architecture\PetStore\PetStore.Models\bin\Debug\netstandard2.1\PetStore.Models.dll
-E:\Soft Uni\CODES\DB\Entity Framework Core\Best practicing and architecture\PetStore\PetStore.Models\bin\Debug\netstandard2.1\PetStore.Models.pdb
-E:\Soft Uni\CODES\DB\Entity Framework Core\Best practicing and architecture\PetStore\PetStore.Models\obj\Debug\netstandard2.1\PetStore.Models.csprojAssemblyReference.cache
-E:\Soft Uni\CODES\DB\Entity Framework Core\Best practicing and architecture\PetStore\PetStore.Models\obj\Debug\netstandard2.1\PetStore.Models.AssemblyInfoInputs.cache
-E:\Soft Uni\CODES\DB\Entity Framework Core\Best practicing and architecture\PetStore\PetStore.Models\obj\Debug\netstandard2.1\PetStore.Models.AssemblyInfo.cs
-E:\Soft Uni\CODES\DB\Entity Framework Core\Best practicing and architecture\PetStore\PetStore.Models\obj\Debug\netstandard2.1\PetStore.Models.dll
-E:\Soft Uni\CODES\DB\Entity Framework Core\Best practicing and architecture\PetStore\PetStore.Models\obj\Debug\netstandard2.1\PetStore.Models.pdb
